@@ -26,5 +26,6 @@
 	"humao.rest-client",
         "redhat.vscode-yaml"
 	"ms-azuretools.vscode-azurefunctions"
+	"azure-functions-core-tools"
     ]
 }
